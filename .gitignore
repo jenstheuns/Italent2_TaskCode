@@ -338,3 +338,24 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/Assets/Scenes
+
+/Assets/SampleScenes
+/Assets/Prefabs
+/Assets/Materials
+/Assets/Levels
+/Assets/Gizmos/Cinemachine
+
+/Assets/Audio
+
+/Assets/Sprites& Tiles
+/Assets/Standard Assets
+/Builds
+/Library
+/ProjectSettings
+/Temp
+/Assets/Animations
+/Assembly-CSharp-Editor-firstpass.csproj
+/Assembly-CSharp-Editor.csproj
+/Assembly-CSharp-firstpass.csproj
+/Assembly-CSharp.csproj
